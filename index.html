@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Quizin' You</title>
+</head>
+
+ <!-- header -->
+<body>
+    <header>
+        <a href="assets/High Scores.html" id="HighScores">View High Scores</a>
+        <p id="time"> Total Time: 60 seconds </p>
+    </header>
+
+<!-- starting point -->
+    <section id="container">
+        <div id="starting">
+            <h1 id="introduction"> Wanna play a game? You'll probably lose...</h1>
+            <button id="start">Try me</button>
+        </div>
+
+
+<!-- hidden q's-->
+        <div id="questions">
+            <h1 id="q"></h1>
+            <ul id="a"></ul>
+        </div>
+
+<!-- hidden score--> 
+        <div id="savetopscore">
+            <h3 id="finalscore"></h3>
+            <form>
+                <input type="text" placeholder="Initials" id="initials">
+                <button id="submit">Send the Score</button>
+            </form>
+            <button id="startover">Told Ya, Try again?</button>
+        </div>
+    </section>
+
+<!-- JS SCRIPT-->
+<script src="assets/script.js"></script>
+
+</body>
+</html>
