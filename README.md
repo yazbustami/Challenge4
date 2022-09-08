@@ -1,10 +1,12 @@
 # Challenge4
 4th challenge of the class
 LIVE LINK: https://yazbustami.github.io/Challenge4/
+SC: ![SCQ](https://user-images.githubusercontent.com/111784041/189033863-4a47613a-3705-46c2-acd0-42889f8d1f76.jpg)
+
 
 
 The purpose of doing this challenge was to apply what we learned to a quiz. 
-I created a CSS, HTML, & JS from the start.
+<!-- created 2 HTML,2 JS, 1 CSS -->
 
 
 ## Acceptance Criteria per README
